@@ -1,0 +1,2 @@
+# logs
+[Go](./golog.md)
