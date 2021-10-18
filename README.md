@@ -1,2 +1,2 @@
 # logs
-[学习日志](./study_log.md)
+[学习日志](./studylog.md)
